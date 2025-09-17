@@ -14,3 +14,5 @@ Mobile Number:<input type="text"><br></br>
 <input type="radio" id="female" name="gender" value="female">Female<br>
 <input type="radio" id="other" name="gender" value="other">Other<br>
 <input type="submit" value="Submit">
+</body>
+</html>
